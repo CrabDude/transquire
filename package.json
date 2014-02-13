@@ -1,0 +1,25 @@
+{
+  "name": "transquire",
+  "version": "0.0.1",
+  "description": "A require replacement and hook to automatically transpiler module source at runtime.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CrabDude/transquire.git"
+  },
+  "keywords": [
+    "transpile",
+    "es6",
+    "require",
+    "hook"
+  ],
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrabDude/transquire/issues"
+  },
+  "homepage": "https://github.com/CrabDude/transquire"
+}
